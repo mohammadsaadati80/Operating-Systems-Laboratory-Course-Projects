@@ -9,3 +9,6 @@ A modified xv6 operating system with several extra features such as various new 
 3. Lab3 : Process Scheduling
 4. Lab4 : Synchronization
 5. Lab5 : Memory Management (Implementing mmap in xv6) 
+
+
+Contributor : [Seyed Emad Emami](https://github.com/emad008)
