@@ -11,4 +11,4 @@ A modified xv6 operating system with several extra features such as various new 
 5. Lab5 : Memory Management (Implementing mmap in xv6) 
 
 
-Contributor : [Seyed Emad Emami](https://github.com/emad008)
+Contributor : [Emad Emami](https://github.com/emad008)
