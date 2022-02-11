@@ -4,3 +4,6 @@
 [submodule "Lab2"]
 	path = Lab2
 	url = https://github.com/mohammadsaadati80/xv6-System-Calls.git
+[submodule "Lab3"]
+	path = Lab3
+	url = https://github.com/mohammadsaadati80/xv6-Process-Scheduling.git
