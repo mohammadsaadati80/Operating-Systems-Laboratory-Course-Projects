@@ -10,3 +10,6 @@
 [submodule "Lab4"]
 	path = Lab4
 	url = https://github.com/mohammadsaadati80/xv6-Synchronization.git
+[submodule "Lab5"]
+	path = Lab5
+	url = https://github.com/mohammadsaadati80/xv6-mmap.git
