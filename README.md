@@ -22,13 +22,13 @@ A modified [xv6](https://github.com/mit-pdos/xv6-public) operating system with s
 * Calculate all divisors of a number by ```factor``` command and store the result in factor_result.txt.
 
 ## Part 2. System calls
-* ```calculate_sum_of_digits(int n)```: زalculate the sum of input number digits
+* ```calculate_sum_of_digits(int n)```: calculate the sum of input number digits
 * ```void get_file_sectors(int fd, <parameter storing returned sector addresses>)```: find the address of file sectors
 * ```int get_parent_pid()```: get parent's process
-* ```set_process_parent(int pid);```: Change the parent of a process
+* ```set_process_parent(int pid);```: change the parent of a process
 
 ## Part 3. CPU Scheduling
-Modified the scheduler by adding 4 different levels for processes. 
+Modified the scheduler by adding 3 different levels for processes. 
 
 1. Level 1: Round Robin (RR)
 2. Level 2: Last Come First Serve (LCFS)
