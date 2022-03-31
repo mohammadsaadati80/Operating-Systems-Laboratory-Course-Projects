@@ -15,9 +15,9 @@ A modified [xv6](https://github.com/mit-pdos/xv6-public) operating system with s
 * Added contributors names to boot message.
 * Shell features:
 
-    1. ```CTRL + T``: Move the last two letters before the cursor
-    2. ```CTRL + O``: Uppercase all letters after the cursor
-    3. ```CTRL + A``: Move the cursor to the beginning of the line
+    1. ```CTRL + T```: Move the last two letters before the cursor
+    2. ```CTRL + O```: Uppercase all letters after the cursor
+    3. ```CTRL + A```: Move the cursor to the beginning of the line
 
 * Calculate all divisors of a number by ```factor``` command and store the result in factor_result.txt.
 
