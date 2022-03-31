@@ -37,7 +37,7 @@ Modified the scheduler by adding 3 different levels for processes.
 Some system calls added: 
 * ```set_level(int pid, int level)```: sets the level for the process
 * ```set_mhrrn_param_process(int pid, int priority)```: sets the MHRRN parameter at the process level
-* ```set_mhrrn_param_system(int priority) ```: sets the MHRRN parameter at the system level
+* ```set_mhrrn_param_system(int priority)```: sets the MHRRN parameter at the system level
 * ```print_process(void)```: show processes and their information such as state and scheduler queue
 
 ## Part 4. Synchronization
@@ -46,7 +46,7 @@ Simulation of the problem of Dining Philosophers with 5 Philosopher.
 Some system calls added: 
 * ```sem_init(i, v)```: the semaphore in the i-th house creates an array with a number v for maximum processing within the critical area.
 * ```sem_acquire(i)```: when a process wants to enter the critical area, it calls a system call.
-* ```sem_release(i) ```: when a process wants to exit the critical area, it calls a system call.
+* ```sem_release(i)```: when a process wants to exit the critical area, it calls a system call.
 
 ## Part 5. Memory Management 
 Implementing mmap in xv6
